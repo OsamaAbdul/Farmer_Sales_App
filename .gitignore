@@ -1,0 +1,99 @@
+# ===============================
+# Node.js (Backend & Frontend)
+# ===============================
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Build output
+dist/
+build/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Optional npm cache directory
+.npm/
+
+# Debuggers
+debug.log
+*.swp
+
+# MongoDB dump files
+dump/
+
+# Parcel-bundler cache
+.cache/
+
+# Mac system files
+*.DS_Store
+
+# React Native
+.expo/
+.expo-shared/
+
+# Optional Yarn files
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+.yarnrc.yml
+
+# Serverless Framework
+.serverless/
+
+# Firebase
+.firebaserc
+.firebase/
+
+# Netlify
+.netlify/
+
+# Local development
+*.local
+
+# JetBrains IDEs
+*.iml
+*.ipr
+*.iws
+out/
+
+# Docker files
+docker-compose.override.yml
+docker-compose.dev.yml
+
+# Misc
+*.tgz
+*.gz
+*.zip
